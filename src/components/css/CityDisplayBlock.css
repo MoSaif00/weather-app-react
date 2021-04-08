@@ -1,0 +1,40 @@
+.weather_container {
+  width: 400px;
+  margin: 10px auto 20px auto;
+  padding: 0 30px;
+  border: #393232 solid 2px;
+  background-color: #f2edd7;
+  border-radius: 10px;
+  position: relative;
+}
+.router_link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.city_name {
+  padding-bottom: 10px;
+  text-decoration: none;
+  color: #393232;
+}
+.country_name {
+  font-size: 25px;
+}
+
+.weather_main {
+  display: flex;
+  flex-direction: column;
+}
+.weather_description {
+  font-size: 20px;
+}
+.max_temperature,
+.min_temperature,
+.location,
+.weather_main {
+  text-align: left;
+  color: #3a6351;
+}
+.max_temperature {
+  padding-top: 10px;
+}

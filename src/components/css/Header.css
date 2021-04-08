@@ -1,0 +1,7 @@
+.header {
+  border: 2px dashed #e48257;
+  margin: 5vh auto 10px auto;
+  padding: 2px 20px;
+  color: #f2edd7;
+  background-color: rgb(228, 130, 87, 0.2);
+}

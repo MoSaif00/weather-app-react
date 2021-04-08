@@ -1,0 +1,24 @@
+.form_container {
+  margin: 30px auto;
+  padding: 10px 50px 10px 50px;
+  display: flex;
+}
+.input_field {
+  height: 43px;
+  width: 18rem;
+  margin-right: 20px;
+  padding-top: 4px;
+  border: #f2edd7 2px solid;
+  border-bottom: #f2edd7 5px solid;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: rgba(0, 0, 0, 0);
+  color: #e48257;
+}
+.input_field:focus {
+  outline: none !important;
+  border-color: #e48257;
+  box-shadow: 0 0 10px #e48257;
+}
