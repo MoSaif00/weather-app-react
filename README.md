@@ -1,4 +1,4 @@
-# EXPENSES TRACKER APP - REACT
+# WEATHER APP - REACT
 
 > React app
 
