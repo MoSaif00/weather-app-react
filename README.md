@@ -7,7 +7,6 @@
 ![alt text](demoScreen.gif)
 
 **Features :**
-1- it uses
 
 - It uses the city name to bring the weahter data.
 - Button is disabled if you enter empty spaces or number or special characters.
